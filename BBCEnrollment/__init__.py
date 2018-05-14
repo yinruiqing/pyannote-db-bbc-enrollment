@@ -79,7 +79,7 @@ class BBCEnrollmentSpeakerDiarizationProtocol(SpeakerDiarizationProtocol):
             #annotated = uems(uri)
             #annotation = mdtms(uri)
             current_file = {
-                'database': 'Eastenders',
+                'database': 'BBCEnrollment',
                 'uri': uri}
             #    'annotated': annotated,
             #    'annotation': annotation
